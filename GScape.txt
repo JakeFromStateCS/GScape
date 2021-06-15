@@ -1,0 +1,17 @@
+"Gamemode"
+{
+	"base"		"base"
+    "title"  "GScape"
+    "version"   "0.01A"
+    "menusystem"	"1"
+
+    "author_name"   "Blasphemy"
+    "author_email"  ""
+    "author_url"    "http://www.b-w.me"
+
+    "maps"  ""
+
+    "icon"  ""
+    "info"  ""
+    "hide"  "0"
+}
